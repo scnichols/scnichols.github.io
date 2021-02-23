@@ -1,66 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scott A. Nichols | Policy Analyst (sociology, literacy, and psychology</title>
+    <title>Scott Nichols</title>
     <link>https://sanichols.com/</link>
-    <description>Recent content on Scott A. Nichols | Policy Analyst (sociology, literacy, and psychology</description>
+    <description>Recent content on Scott Nichols</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
-    
-	<atom:link href="https://sanichols.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://sanichols.com/about/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://sanichols.com/about/</guid>
-      <description>I&amp;rsquo;m passionate about helping institutions and governments improve policy and evaluate program effectiveness through research.
-My current areas of interest are:
- Educational sociology and policy Equality in education with and for all populations Quantitative and qualitative methodologies Critical literacy   Ayda Nichols I lost my wife, Ayda Nichols, to metastatic non-small cell lung cancer in 2019. The cancer was aggressive at stage four from day one and she fought with all her strength for seven years.</description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://sanichols.com/photos/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://sanichols.com/photos/</guid>
-      <description>Some personal photos, eventually&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://sanichols.com/posts/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://sanichols.com/posts/</guid>
-      <description>nothing here, yet :(</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://sanichols.com/projects/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://sanichols.com/projects/</guid>
-      <description>Some of the projects I was proud to be a part of.
-2018 My colleagues and I presented a working paper on advocacy, care, and transformation at the Literacy Research Association convention in Indian Wells, California.
-ASPiRE Research Fellowship
-2016 - 2019 Graduate Research Fellowship, National Science Foundation
-2010 - 2012 Worked as a second grade teacher in an international school in Colombia for two years. I taught Science, Math, Social Studies, and English.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://sanichols.com/publications/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://sanichols.com/publications/</guid>
-      <description>(2019). Diverse Learners: Challenges in the Field. (2018). Development of reading motivation: Towards an understanding through an examination of self-regulation and affective theory. (2018). Perspectives and policies effecting diverse learners. (2018). Achievement testing and learning strategies. A look at methodology. Stefanski, A., Kwangok, S., Fife-Demski, V., &amp;amp; Nichols, S. A. (2018). Advocacy, care, and transformation: A review of community-engaged scholarship in literacy research. Paper presented at the Literacy Research Association, Indian Wells, CA.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://sanichols.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
