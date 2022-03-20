@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://sanichols.com/projects/1_project/</loc>
-<lastmod>2022-01-22T22:30:24-05:00</lastmod>
+<lastmod>2022-03-19T21:34:40-04:00</lastmod>
 </url>
 <url>
 <loc>https://sanichols.com/</loc>
@@ -14,7 +14,7 @@
 <loc>https://sanichols.com/contact/</loc>
 </url>
 <url>
-<loc>https://sanichols.com/countries/</loc>
+<loc>https://sanichols.com/data/</loc>
 </url>
 <url>
 <loc>https://sanichols.com/espanol/</loc>
@@ -33,5 +33,12 @@
 </url>
 <url>
 <loc>https://sanichols.com/pays/</loc>
+</url>
+<url>
+<loc>https://sanichols.com/research/</loc>
+</url>
+<url>
+<loc>https://sanichols.com/assets/pdf/FinancialStatement.pdf</loc>
+<lastmod>2022-02-18T00:17:16-05:00</lastmod>
 </url>
 </urlset>
