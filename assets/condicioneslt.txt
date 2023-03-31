@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T76P9CWDS6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T76P9CWDS6');
+</script>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="Improving Workspaces Through Analysis, selection psychologist, Psicólogo de selección, school evalutions, colegio evaluaciones, mejorar los espacios de trabajo a través del análisis, evaluaciones del lugar de trabajo">
+<meta http-equiv="onion-location" content="http://o4tvvmbum3oqa4ebrzs6q73lhspguvzcqnn3xu67ey7nmpd27pxxnwid.onion/en">
+
+
+<title>Scott A. Nichols | Improving Workspaces Through Analysis.</title>
+
+
+<style>
+  h1 {
+    font-family: Garamond;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+
+  nav {
+    text-align: right;
+  }
+
+  body {
+    font-family: Garamond;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 8px;
+  }
+
+  h2, h3, h4, h5 {
+    color: #6bf;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html { background: #ffffff; color: rgb(0, 0, 0); text-decoration: none; }
+    a { color: #000000; text-decoration: none; }
+    a:visited { color: rgb(0, 0, 0); text-decoration: none; }
+    a:active { color: rgb(0, 0, 0); text-decoration: none; }
+    a:hover {color: rgb(49, 160, 250)}
+  }
+
+  footer {
+    text-align: center;
+  }
+</style>
+
+<script src="https://kit.fontawesome.com/205a300424.js" crossorigin="anonymous"></script>
+
+<p style="text-align:left;">
+
+<h1>Scott A. Nichols</h1> <span style="font-size:15px">Improving Workspaces Through Analysis.
+
+<span style="float:right;">
+
+  <a href="conditionslt.html">inglés</a> | <a href="condiciones.html"><i class="fa-solid fa-moon"></i></i></a>
+
+</span></p>
+
+<br><br><br>
+
+<nav>
+  <a href="indexeslt.html">inicio</a> ·
+  <span style="color: rgb(49, 160, 250)">condiciones</span> ·
+  <a href="servicioslt.html">servicios
+  </a> ·
+  <a href="contactolt.html">contacto</a>
+</nav>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+<br>
+
+<script type="text/javascript">
+  function display_c(){
+  var refresh=1000; // Refresh rate in milli seconds
+  mytime=setTimeout('display_ct()',refresh)
+  }
+  
+  function display_ct() {
+  var x = new Date()
+  var x1=x.toISOString().slice(11, 19) + ' z'
+  document.getElementById('ct').innerHTML = x1;
+  tt=display_c();
+   }
+</script>
+
+</head>
+
+<body>
+
+<h3>Condiciones que trato:</h3>
+<ul>
+  <li>TDAH</li>
+  <li>Trastornos de adaptación</li>
+  <li>Agorafobia</li>
+  <li>Enojo</li>
+  <li>Ansiedad</li>
+  <li>Depresión</li>
+  <li>Factores de estrés y transiciones de la vida</li>
+  <li>Baja autoestima</li>
+  <li>Desorden de ánimo</li>
+  <li>Ansiedad social</li>
+  <li>Estrés</li>
+</ul>
+</body>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<footer>
+
+  © Scott A. Nichols, 2023.
+  
+  <div id="inner">
+    <span style="text-align: center;"><body onload=display_ct();>
+        <span id='ct' ></span>
+        <br>
+  </div>
+  
+  </footer>

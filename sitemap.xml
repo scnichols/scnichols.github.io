@@ -13,11 +13,6 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://sanichols.com/conditions.html</loc>
-  <lastmod>2023-02-20T21:23:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://sanichols.com/services.html</loc>
   <lastmod>2023-02-20T21:23:44+00:00</lastmod>
   <priority>0.80</priority>
@@ -30,27 +25,22 @@
 <url>
   <loc>https://sanichols.com/indexes.html</loc>
   <lastmod>2023-02-20T21:23:44+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://sanichols.com/index.html</loc>
   <lastmod>2023-02-20T21:23:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sanichols.com/condiciones.html</loc>
-  <lastmod>2023-02-20T21:23:44+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://sanichols.com/servicios.html</loc>
   <lastmod>2023-02-20T21:23:44+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sanichols.com/contacto.html</loc>
   <lastmod>2023-02-20T21:23:44+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 
 

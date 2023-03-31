@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T76P9CWDS6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T76P9CWDS6');
+</script>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="Improving Lives Through Therapy best english speaking psychologist in colombia and bogota. psychologist for us embassy employees, UK embassy, australia embassy, Evaluaciones previas a la contratación, pre-employment evaluations, school evaluations">
+<meta http-equiv="onion-location" content="http://o4tvvmbum3oqa4ebrzs6q73lhspguvzcqnn3xu67ey7nmpd27pxxnwid.onion/en">
+
+<title>Scott A. Nichols | Improving Workspaces Through Analysis.</title>
+
+
+<style>
+  h1 {
+    font-family: Garamond;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+
+  nav {
+    text-align: right;
+  }
+
+  body {
+    font-family: Garamond;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 8px;
+  }
+
+  h2, h3, h4, h5 {
+    color: #6bf;
+  }
+
+  footer {
+    text-align: center;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    html { background: #ffffff; color: rgb(0, 0, 0); text-decoration: none; }
+    a { color: #000000; text-decoration: none; }
+    a:visited { color: rgb(0, 0, 0); text-decoration: none; }
+    a:active { color: rgb(0, 0, 0); text-decoration: none; }
+    a:hover {color: rgb(49, 160, 250)}
+  }
+
+</style>
+
+<script src="https://kit.fontawesome.com/205a300424.js" crossorigin="anonymous"></script>
+
+<p style="text-align:left;">
+
+<h1>Scott A. Nichols</h1> <span style="font-size:15px">Improving Lives Through Therapy.
+
+<span style="float:right;">
+
+  <a href="indexeslt.html">español</a> | <a href="index.html"><i class="fa-solid fa-moon"></i></a>
+
+</span></p>
+
+
+
+<br><br><br>
+
+<nav>
+    <span style="color: rgb(49, 160, 250)">home</span> ·
+    <a href="conditionslt.html">conditions</a> ·
+    <a href="serviceslt.html">services</a> ·
+    <a href="contactlt.html">contact</a>
+  </nav>
+
+<br>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<script type="text/javascript">
+  function display_c(){
+  var refresh=1000; // Refresh rate in milli seconds
+  mytime=setTimeout('display_ct()',refresh)
+  }
+  
+  function display_ct() {
+  var x = new Date()
+  var x1=x.toISOString().slice(11, 19) + ' z'
+  document.getElementById('ct').innerHTML = x1;
+  tt=display_c();
+   }
+</script>
+
+</head>
+
+<body>
+
+<p>In my work as a licensed psychologist, I specialize in providing integrative therapy services to young adults (18-40) and teens (13-17). I enjoy guiding clients in an opportunity to heal from pain, experience improved well-being and relationships, discover an inner peace and calm, optimize growth and develeopment at school, work and home. I have experience and training in utilizing therapeutic tools uniquely within each age range to age-appropriately access growth and change.</p> 
+
+<p>I integrate therapeutic modalities, inlcuding Jungian Therapy, Narrative Therapy, and Cogntive Behavioral Therpay (CBT). I provide psychological testing and assessments (qualitative and quantitative methodologies) that can be used in individual therapy sessions to find areas of improvement or be used in a school or workplace setting to allow teachers, professors, or employers to provide my clients with optimized and improved environments to allow them to be successful.</p>
+
+<p>Psychotherapy is a tool that we all need and can be used to improve our lives. Letting go of prejudice is the first step to repair and for peace of mind. Addair wrote, "Everything you’ve ever wanted is sitting on the other side of fear."</p>
+
+</body>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<footer>
+
+© Scott A. Nichols, 2023.
+
+<div id="inner">
+  <span style="text-align: center;"><body onload=display_ct();>
+      <span id='ct' ></span>
+      <br>
+</div>
+
+</footer>
