@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Ayda's Twitter</title>
+<h4><a href="https://aydanichols.com">home</a></h4>
+
+<img src="TwitterProfilePage.png" alt="Caption: None">
+
+<script>window.YTD = { tweet: {} }</script>
+<script src="tweet.js"></script><!-- this is loading a file from the archive -->
+<style>
+  .tweet { border: 1px solid #eee; margin: 8px }
+  .full_text { padding: 8px }
+  .created_at { padding: 8px; color: #777 }
+
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(1, 1, 63);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+</style>
+<body>
+<div id="root"></div>
+<script>
+  const tweets = []
+
+  for (const part of Object.values(window.YTD.tweet)) {
+    tweets.push(...part)
+  }
+
+  const newestFirst = (a, b) => new Date(b.created_at) - new Date(a.created_at)
+
+  const renderTweet = tweet => `
+    <div class="tweet">
+      <div class="full_text">${tweet.full_text}</div>
+      <div class="created_at">${tweet.created_at}</div>
+    </div>`
+
+  document.getElementById('root').innerHTML = tweets.sort(newestFirst).map(renderTweet).join('\n')
+</script>
