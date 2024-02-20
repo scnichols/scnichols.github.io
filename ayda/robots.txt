@@ -1,3 +1,0 @@
-user-agent: *
-disallow: /css/
-sitemap: http://aydanichols.com/sitemap.xml
